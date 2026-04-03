@@ -9,8 +9,8 @@ This project analyzes the Quality of Service (QoS) performance of a simulated 5G
 
 ## Service Types
 - URLLC: Ultra-Reliable Low-Latency Communications
-- eMBB: Enhanced Mobile Broadband
-- mMTC: Massive Machine-Type Communications
+- eMBB: enhanced Mobile Broadband
+- mMTC: massive Machine-Type Communications
 
 ## Technologies
 - Python
