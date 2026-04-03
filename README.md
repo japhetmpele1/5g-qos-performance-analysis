@@ -29,3 +29,16 @@ This project is relevant to:
 - QoS evaluation
 - Intelligent transport systems
 - Reliability and resilience of wireless communications
+
+## Project Structure
+```
+5g-qos-performance-analysis/
+│
+├── main.py
+├── generate_data.py
+├── analysis.py
+├── requirements.txt
+├── data/
+│   └── simulated_5g_qos.csv
+└── README.md
+```
